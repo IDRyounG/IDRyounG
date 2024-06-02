@@ -10,7 +10,6 @@
 </div>
 
 ##
-  <img align="right" alt="Ian-pic" height="150" style="border-radius:50px;" src=https://share-cdn.picrew.me/shareImg/org/202201/466657_jRhDbbNp.png>
 </div>
   Trabalho na área tech há 7 anos e já passei por diversas áreas de atuação: <br>
   ✔ Desenvolvimento .NET <br>
