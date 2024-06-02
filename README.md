@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Bem vindo! Eu sou o Ian Rocha, desenvolvedor back-end .NET e Blockchain 💻 !
+  Bem vindo! Eu sou o Ian Rocha, Tech Lead .NET e NodeJS 💻 !
 </h1>
 
 <div align="center"> 
@@ -12,7 +12,7 @@
 ##
   <img align="right" alt="Ian-pic" height="150" style="border-radius:50px;" src=https://share-cdn.picrew.me/shareImg/org/202201/466657_jRhDbbNp.png>
 </div>
-  Trabalho com T.I. há 4 anos e já passei por diversas áreas de atuação: <br>
+  Trabalho na área tech há 7 anos e já passei por diversas áreas de atuação: <br>
   ✔ Desenvolvimento .NET <br>
   ✔ Desenvolvimento Blockchain Solidity/Ethereum <br>
   ✔ Desenvolvimento de AR/VR <br>
@@ -36,15 +36,12 @@
   <img align="center" alt="Ian-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  
   <img align="center" alt="Ian-Solidity" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg">  
   <img align="center" alt="Ian-PSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">  
-  <img align="center" alt="Ian-MSQLServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">  
   <img align="center" alt="Ian-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">  
 </div>
 
 ### Techs que estou aprendendo
 <div style="display: inline_block"><br>
   <img align="center" alt="Ian-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">  
-  <img align="center" alt="Ian-Rust" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg">  
-  <img align="center" alt="Ian-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">  
   <img align="center" alt="Ian-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg">  
   <img align="center" alt="Ian-Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">  
 </div>
@@ -56,9 +53,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IDRyounG&layout=compact&langs_count=7&theme=vue-dark"/>
    <br>
 <br>  
-<p  align="center">
-  <a  href="https://github.com/IDRyounG/github-readme-activity-graph"><img  alt="Ian Activity Graph"  src="https://activity-graph.herokuapp.com/graph?username=IDRyounG&bg_color=292d3e&color=a6accd&line=c792ea&point=89ddff&area=true&hide_border=true" /></a>
-</p>
 
 </div>
  
